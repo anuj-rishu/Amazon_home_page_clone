@@ -7,5 +7,6 @@ Created an impressive Amazon.com home page clone using only HTML and CSS. Demons
 
 
 ## Clone Gif
-![clone](https://github.com/anuj-rishu/Amazon_home_page_clone/assets/115218200/4c44a381-7a42-40e4-90b9-bee1c0c03e3e)
+![cone](https://github.com/anuj-rishu/Amazon_home_page_clone/assets/115218200/f137d965-d890-4a5b-80e1-9a832745d1d8)
+
 
